@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/talentos/"}
 ---
 
-
 # 🌟 Catálogo de Talentos
 
 Talentos são o tempero do personagem. Você pode adquiri-los ao subir de nível ou durante a jornada narrativa.
@@ -39,14 +38,17 @@ Talentos são o tempero do personagem. Você pode adquiri-los ao subir de nível
 > **Potência**
 > +2 pontos de "Potência" (ver em "Estilos de Luta").
 >
-> **Foco Cristalino**
-> +4 nas Defesas Passivas de "Foco (Lucidez)".
+> **Foco Cristalino:** Sua mente é treinada para rejeitar intrusões e manter a concentração sob pressão. Você recebe **+4** permanentemente nas suas Defesas Passivas de **Foco (Lucidez)**.
+> 
+> **Mente Soberana:** _(Requer: Foco Cristalino)_. Sua concentração se torna uma fortaleza impenetrável. Você recebe mais **+1** na Defesa Passiva de Foco e, ao gastar uma Reação para resistir com Lucidez, adiciona **+1d8** e **+2** à sua jogada de dados.
 >
-> **Reflexos Apurados**
-> +4 nas Defesas Passivas de "Esquiva (Agilidade)".
+> **Reflexos Apurados:** Seus instintos de sobrevivência reagem antes mesmo do seu cérebro processar o perigo. Você recebe **+4** permanentemente nas suas Defesas Passivas de **Esquiva (Agilidade)**.
+> 
+> **Vulto Intocável:** _(Requer: Reflexos Apurados)_. Para os inimigos, você é apenas um borrão. Você recebe mais **+1** na Defesa Passiva de Esquiva e, ao gastar uma Reação para esquivar com Agilidade, adiciona **+1d8** e **+2** à sua jogada de dados.
+> 
+> **Casca-Grossa:** Seu corpo é acostumado com a dor e o impacto, transformando pele em couro. Você recebe **+4** permanentemente nas suas Defesas Passivas de **Bloqueio (Vigor)**.
 >
-> **Casca-Grossa**
-> +4 nas Defesas Passivas de "Vigor".
+> **Inquebrável:** _(Requer: Casca-Grossa)_. Dor é apenas informação; seu corpo ignora impactos que matariam outros. Você recebe mais **+1** na Defesa Passiva de Bloqueio e, ao gastar uma Reação para bloquear com Vigor, adiciona **+1d6** e **+2** à sua jogada de dados.
 >
 > **Sortudo pra Krl**
 > Quando o personagem usar uma "Jogada do Destino" (ver em "Sorte"), ele soma +4 pontos no resultado dos d12.
