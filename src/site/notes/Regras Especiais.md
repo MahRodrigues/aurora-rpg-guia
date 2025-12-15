@@ -69,7 +69,7 @@ Você pode ativar isso **depois** de ver o resultado da rolagem.
 * Encontre uma "Coincidência" conveniente (um NPC amigo, uma chave esquecida).
 
 > [!quote] Nota do Designer
-> "Não tem problema usar a Mudança na História para se salvar da morte, mas lembre-se: existem formas muito mais criativas e divertidas de gastar sua sorte para deixar a história épica!"
+> Não tem problema usar a Mudança na História para se salvar da morte, mas lembre-se: existem formas muito mais criativas e divertidas de gastar sua sorte para deixar a história épica!
 
 ---
 
