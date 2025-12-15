@@ -37,6 +37,7 @@ O impacto no corpo físico depende da resistência total do herói. Para saber o
 
 > [!tip] Dica para a Ficha
 > Escreva ao lado da sua Vida Total o valor do seu **Limiar de Trauma** (a metade da Vida). Assim não precisa de fazer contas de dividir na hora do pânico.
+
 > [!info] Por que isso é justo?
 > Inimigos poderosos causam danos massivos. Se você permitir que um Dragão atinja sua carne diretamente (sem PVC para amortecer), o resultado deve ser catastrófico, independente do seu nível.
 
