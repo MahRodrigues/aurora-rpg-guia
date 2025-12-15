@@ -107,21 +107,9 @@ Em Aurora, a magia não é apenas um "poder", é uma forma de entender e manipul
 3. Anote seu **Bônus** (+1 no Caminho específico).
 4. Interprete o **Custo** na sua narrativa!
 
-> [!info] Da Teoria à Prática
-> Entender a trama é filosofia; dobrá-la à sua vontade é sobrevivência.
->
-> O conhecimento contido aqui é inútil se não souber as palavras de poder e os gestos exatos. Se você acredita estar pronto para manipular essas forças sem se destruir no processo, abra os grimórios técnicos.
->
-> 👉 **Consulte o [[Compêndio do Arcano\|Compêndio do Arcano]]**
-
-> [!quote] Uma nota rabiscada na margem...
-> *"Muitos param por aqui, satisfeitos com a superfície. Tolos. A verdadeira natureza de Aurora não está no que é dito, mas no que é sussurrado nas entrelinhas. Se você tiver coragem para olhar o abismo de frente..."*
->
-> 🕯️ **Descubra os [[Segredos Proibidos de Amrath\|Segredos Proibidos de Amrath]]**
-
 > [!danger] Aviso do Conselho Arcano
 > Você absorveu a teoria das Fontes e dos Caminhos. A partir daqui, o risco é inteiramente seu.
 > O acesso aos **Círculos Superiores** e às **Regras Avançadas** exige não apenas leitura, mas sanidade.
 >
-> 💀 **Prossiga por sua conta e risco para as [[Regras Avançadas de Magia\|Regras Avançadas de Magia]]**
+> 💀 **Prossiga por sua conta e risco para o [[Compêndio do Arcano\|Compêndio do Arcano]]**
 
