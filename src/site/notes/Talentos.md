@@ -270,10 +270,9 @@ Talentos são o tempero do personagem. Você pode adquiri-los ao subir de nível
 > Ignora as penalidades de ferimentos (os dados negativos) para jogadas no combate.
 
 > [!danger] Esquiva (Agilidade)
-> *Nota: Todos os níveis abaixo concedem **+1 no teste de Esquiva** (cumulativo), além dos poderes listados.*
 >
 > **Nível 1**
-> Apenas o bônus base (+1 Esquiva).
+> Concede +1 para todos os testes de Esquiva.
 >
 > **Nível 2**
 > **Mobilidade:** Ganha mais um dado em Esquiva **OU** Mova-se ao terminar sua 'Esquiva'.
@@ -285,13 +284,11 @@ Talentos são o tempero do personagem. Você pode adquiri-los ao subir de nível
 > **Finta:** Quando declarar Esquiva, você pode ignorar completamente um ataque (sucesso automático).
 
 > [!danger] Aparar (Vigor)
-> *Nota: Todos os níveis abaixo concedem **+1 no teste de Aparar** (cumulativo), além dos poderes listados.*
->
 > **Nível 1**
-> Apenas o bônus base (+1 Aparar).
+> Concede +1 para todos os testes de Aparar. 
 >
 > **Nível 2**
-> **Impacto:** Empurre uma criatura depois de "Aparar".
+> **Impacto:** Ganha mais um dado **E** empurre uma criatura depois de "Aparar".
 >
 > **Nível 3**
 > **Ripostar:** Faça um "aparar" e devolva o dano que você evitou de volta para o agressor.
