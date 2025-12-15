@@ -276,7 +276,7 @@ Talentos são o tempero do personagem. Você pode adquiri-los ao subir de nível
 > Apenas o bônus base (+1 Esquiva).
 >
 > **Nível 2**
-> **Mobilidade:** Mova-se ao terminar sua 'Esquiva'.
+> **Mobilidade:** Ganha mais um dado em Esquiva **OU** Mova-se ao terminar sua 'Esquiva'.
 >
 > **Nível 3**
 > **Redirecionar:** Faça a esquiva e redirecione um ataque (que você evitou) para uma outra criatura adjacente.
