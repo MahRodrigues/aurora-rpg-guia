@@ -63,4 +63,4 @@ Ver também [[Guia Rápido\|Guia Rápido]], [[Pontos de Vida\|Pontos de Vida]] e
 
 Ver [[Tabela de Dano Vital\|Tabela de Dano Vital]]
 
-[[Ideias aqui\|Ideias aqui]]
+[[Trauma Massivo\|Trauma Massivo]]
