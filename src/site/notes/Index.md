@@ -60,3 +60,5 @@ Bem-vindo a Amrath! Aqui estão as leis que regem a realidade, o aço e a magia.
 
 
 Ver também [[Guia Rápido\|Guia Rápido]], [[Pontos de Vida\|Pontos de Vida]] e [[Erratas\|Erratas]]
+
+Ver [[Talentos Alternativos\|Talentos Alternativos]]
