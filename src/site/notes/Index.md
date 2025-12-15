@@ -7,7 +7,7 @@
 Bem-vindo a Amrath! Aqui estão as leis que regem a realidade, o aço e a magia.
 
 > [!summary] 🚀 Guia Rápido para Iniciantes
-> **Primeira vez em Amrath?** Não se perca na fumaça e nos espelhos.
+> **Primeira vez em Amrath?** Não deixe o vapor ofuscar sua visão.
 >
 > 1.  **Quer jogar agora?** Baixe a [[Ficha de Personagem\|Ficha de Personagem]] e siga o [[Guia de Criação\|Guia de Criação]].
 > 2.  **Só quer bater em alguém?** Leia o resumo de [[Combate\|Combate]] e escolha suas armas em [[Equipamentos\|Equipamentos]].
